@@ -1,7 +1,0 @@
-flask
-gunicorn
-opencv-python-headless
-speechrecognition
-pyttsx3
-openai
-numpy
