@@ -1,7 +1,7 @@
-flask
-gunicorn
-opencv-python-headless
-speechrecognition
-pyttsx3
-openai
-numpy
+opencv-python>=4.7.0
+SpeechRecognition>=3.9.0
+pyttsx3>=2.90
+openai>=1.29.0
+pyaudio>=0.2.13
+Flask>=2.3.2
+gTTS>=2.3.0
